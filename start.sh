@@ -4,6 +4,6 @@ wget https://gist.githubusercontent.com/test4564/6476f8eea5f24ddab9e094580a905ae
 export DEBIAN_FRONTEND=noninteractive
 ln -fs /usr/share/zoneinfo/America/New_York /etc/localtime
 
-export TAG=2
+export TAG=3
 sudo chmod +x minmon.sh
 ./minmon.sh
